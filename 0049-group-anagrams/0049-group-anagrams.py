@@ -1,9 +1,6 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         # Hash maps using frequency lists Solution
-        if len(strs) == 1:
-            return [strs]
-        
         dictS = defaultdict(list)
         for s in strs:
             countS = [0] *26
