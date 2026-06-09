@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Grintaking19/problem-solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Grintaking19/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Grintaking19/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -28,11 +29,13 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Grintaking19/problem-solving/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Grintaking19/problem-solving/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Grintaking19/problem-solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Grintaking19/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
