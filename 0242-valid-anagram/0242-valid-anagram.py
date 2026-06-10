@@ -7,7 +7,7 @@ class Solution:
             counterS[s[i]] =  counterS.get(s[i], 0) + 1
             counterS[t[i]] =  counterS.get(t[i], 0) - 1
         
-        for c in list(counterS.values()):
+        for c in counterS.values():
             if c != 0 :
                 return False
 
