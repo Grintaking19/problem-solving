@@ -25,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/Grintaking19/problem-solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/Grintaking19/problem-solving/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Grintaking19/problem-solving/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
