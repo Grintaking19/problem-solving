@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Grintaking19/problem-solving/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Grintaking19/problem-solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Grintaking19/problem-solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Grintaking19/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Grintaking19/problem-solving/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Grintaking19/problem-solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Grintaking19/problem-solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Grintaking19/problem-solving/tree/master/0238-product-of-array-except-self) |
@@ -64,4 +66,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Grintaking19/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Grintaking19/problem-solving/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Grintaking19/problem-solving/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
