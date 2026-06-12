@@ -9,15 +9,10 @@ class Solution:
 
         for c in s:
             if c in openToCloseBracket:
-                stack.append(c)
-            elif len(stack) == 0:
-                return False
-            elif openToCloseBracket[stack[-1]] == c:
-                stack.pop()
+                stack.append(c) 
             else:
-                return False
-
-        if len(stack) != 0:
-            return False
-            
-        return True
+                if stack and openToCloseBracket[stack[-1]] == c:
+                    stack.pop()
+                else: return False
+        
+        return True if not stack else False
