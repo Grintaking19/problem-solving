@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/Grintaking19/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Grintaking19/problem-solving/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Grintaking19/problem-solving/tree/master/0724-find-pivot-index) |
 ## String
 |  |
@@ -87,6 +88,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Grintaking19/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Grintaking19/problem-solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Grintaking19/problem-solving/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -99,4 +101,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Grintaking19/problem-solving/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
