@@ -1,26 +1,20 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
+        operands = {'*', '/', '+', '-'}
         stack = []
-        def add(val1, val2):
-            return int(val1)+ int(val2)
-        def multiply(val1, val2):
-            return int(val1) * int(val2)
-        def subract(val1, val2):
-            return int(val1) - int(val2)
-        def divide(val1, val2):
-            return int(int(val1)/int(val2))
-        operators = {
-            '+': add,
-            '-': subract,
-            '*': multiply,
-            '/': divide
-        }
 
-        for i in range(len(tokens)):           
-            if tokens[i] not in operators:
-                stack.append(tokens[i])
-            else: 
-                val2 = stack.pop()
-                val1 = stack.pop()
-                stack.append(operators[tokens[i]](val1, val2))
-        return int(stack[-1])
+        for t in tokens:
+            if t not in operands:
+                stack.append(int(t))
+            else:
+                op2 = stack.pop()
+                op1 = stack.pop()
+                if t == '*':
+                    stack.append(op1 * op2)
+                elif t == '+':
+                    stack.append(op1 + op2)
+                elif t == '-':
+                    stack.append(op1 - op2)
+                else:
+                    stack.append(int(op1 / op2))
+        return stack.pop()
