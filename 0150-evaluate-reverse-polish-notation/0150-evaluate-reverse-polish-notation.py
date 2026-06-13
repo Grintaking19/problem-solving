@@ -1,10 +1,8 @@
 class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
-        operands = {'*', '/', '+', '-'}
+    def evalRPN(self, tokens: List[str]) -> int:        
         stack = []
-
         for t in tokens:
-            if t not in operands:
+            if t not in {'*', '/', '+', '-'}:
                 stack.append(int(t))
             else:
                 op2 = stack.pop()
