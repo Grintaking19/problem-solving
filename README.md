@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Grintaking19/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Grintaking19/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Grintaking19/problem-solving/tree/master/0724-find-pivot-index) |
 ## String
 |  |
@@ -84,6 +86,7 @@
 | [0020-valid-parentheses](https://github.com/Grintaking19/problem-solving/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Grintaking19/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Grintaking19/problem-solving/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -92,4 +95,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Grintaking19/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
