@@ -35,6 +35,7 @@
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Grintaking19/problem-solving/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Grintaking19/problem-solving/tree/master/0724-find-pivot-index) |
+| [0907-sum-of-subarray-minimums](https://github.com/Grintaking19/problem-solving/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0155-min-stack](https://github.com/Grintaking19/problem-solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Grintaking19/problem-solving/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/Grintaking19/problem-solving/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
@@ -102,4 +104,9 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Grintaking19/problem-solving/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/Grintaking19/problem-solving/tree/master/0907-sum-of-subarray-minimums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/Grintaking19/problem-solving/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
