@@ -46,6 +46,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Grintaking19/problem-solving/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/Grintaking19/problem-solving/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Grintaking19/problem-solving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Grintaking19/problem-solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Grintaking19/problem-solving/tree/master/0853-car-fleet) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Grintaking19/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Grintaking19/problem-solving/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
