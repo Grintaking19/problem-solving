@@ -9,7 +9,7 @@ class Solution:
             mid = l + (r - l) // 2
             totalH = 0
             for p in piles:
-                totalH += math.ceil(float(p)/mid)
+                totalH += (p-1)//mid + 1
             if totalH <= h:
                 res = mid
                 r = mid - 1
