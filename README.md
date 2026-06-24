@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Grintaking19/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0981-time-based-key-value-store](https://github.com/Grintaking19/problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/Grintaking19/problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Grintaking19/problem-solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Grintaking19/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0981-time-based-key-value-store](https://github.com/Grintaking19/problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Grintaking19/problem-solving/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/Grintaking19/problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Grintaking19/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Grintaking19/problem-solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Grintaking19/problem-solving/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Grintaking19/problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
