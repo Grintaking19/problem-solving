@@ -1,26 +1,25 @@
+from sortedcontainers import SortedDict
+
 class TimeMap:
 
     def __init__(self):
-        self.ds = defaultdict(list)
+        self.ds = defaultdict(SortedDict)
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        self.ds[key].append((value,timestamp))
+        self.ds[key][timestamp] = value
 
     def get(self, key: str, timestamp: int) -> str:
-        array = self.ds[key]
-        l, r = 0, len(array)  - 1
-        res = ("", 0)
-        while l <= r:
-            mid = l + (r - l) // 2
-            if array[mid][1] == timestamp:
-                return array[mid][0]
-            elif array[mid][1] > timestamp:
-                r = mid - 1
-            else:
-                l = mid + 1
-                res = array[mid]
-                
-        return res[0]
+        if key not in self.ds:
+            return ""
+
+        timestamps = self.ds[key]
+
+        idx = timestamps.bisect_right(timestamp) - 1
+
+        if idx >= 0:
+            time = timestamps.iloc[idx]
+            return self.ds[key][time]
+        return ""
 
 # Your TimeMap object will be instantiated and called as such:
 # obj = TimeMap()
