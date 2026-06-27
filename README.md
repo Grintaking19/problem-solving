@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/Grintaking19/problem-solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Grintaking19/problem-solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Grintaking19/problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Grintaking19/problem-solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Grintaking19/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Grintaking19/problem-solving/tree/master/0242-valid-anagram) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Grintaking19/problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Grintaking19/problem-solving/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Grintaking19/problem-solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Grintaking19/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Grintaking19/problem-solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Grintaking19/problem-solving/tree/master/0206-reverse-linked-list) |
