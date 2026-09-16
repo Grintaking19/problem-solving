@@ -2,4 +2,4 @@
 SELECT t.id
 FROM Weather t
 JOIN Weather y
-ON DATEDIFF(t.recordDate, y.recordDate) = 1 AND t.temperature > y.temperature
+ON y.recordDate = DATE_SUB(t.recordDate, INTERVAL 1 DAY) AND t.temperature > y.temperature
