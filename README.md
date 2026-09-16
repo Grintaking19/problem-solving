@@ -205,4 +205,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Grintaking19/problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Grintaking19/problem-solving/tree/master/0226-invert-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Grintaking19/problem-solving/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
