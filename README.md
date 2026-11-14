@@ -13,6 +13,7 @@
 | [0141-linked-list-cycle](https://github.com/Grintaking19/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Grintaking19/problem-solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Grintaking19/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
@@ -57,6 +58,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Grintaking19/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Grintaking19/problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Grintaking19/problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Grintaking19/problem-solving/tree/master/0503-next-greater-element-ii) |
@@ -83,6 +85,7 @@
 | [0049-group-anagrams](https://github.com/Grintaking19/problem-solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Grintaking19/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Grintaking19/problem-solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Grintaking19/problem-solving/tree/master/0853-car-fleet) |
 ## Divide and Conquer
@@ -143,6 +146,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Grintaking19/problem-solving/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Grintaking19/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,6 +170,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Grintaking19/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Grintaking19/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Grintaking19/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Grintaking19/problem-solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Grintaking19/problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Grintaking19/problem-solving/tree/master/0981-time-based-key-value-store) |
@@ -268,4 +273,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Grintaking19/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
