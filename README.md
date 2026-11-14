@@ -70,6 +70,7 @@
 | [0853-car-fleet](https://github.com/Grintaking19/problem-solving/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Grintaking19/problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Grintaking19/problem-solving/tree/master/0907-sum-of-subarray-minimums) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Grintaking19/problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0002-add-two-numbers](https://github.com/Grintaking19/problem-solving/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Grintaking19/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Grintaking19/problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Grintaking19/problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
