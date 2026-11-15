@@ -40,6 +40,7 @@
 | [0141-linked-list-cycle](https://github.com/Grintaking19/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Grintaking19/problem-solving/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Grintaking19/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/Grintaking19/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0853-car-fleet](https://github.com/Grintaking19/problem-solving/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Grintaking19/problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Grintaking19/problem-solving/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/Grintaking19/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Grintaking19/problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 ## String
 |  |
@@ -91,6 +93,7 @@
 | [0268-missing-number](https://github.com/Grintaking19/problem-solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Grintaking19/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Grintaking19/problem-solving/tree/master/0853-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/Grintaking19/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
