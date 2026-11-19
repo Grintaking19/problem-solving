@@ -15,10 +15,8 @@ class Solution:
                 curr = queue.popleft()
                 if curr:
                     level.append(curr.val)
-                    if curr.left:                
-                        queue.append(curr.left)
-                    if curr.right:
-                        queue.append(curr.right)
+                    queue.append(curr.left)
+                    queue.append(curr.right)
             if len(level) > 0:
                 res.append(level)
         return res
